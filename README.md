@@ -129,9 +129,4 @@ This project is licensed under the MIT License.
 
 ---
 
-💡 **Tip:** Add a screenshot and optionally a GIF of task adding + animations for better GitHub presentation!
-
-```
-
-
 #
