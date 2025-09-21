@@ -117,10 +117,12 @@ span.completed {
 }
 
 /* make headings, task text, and badges visible */
-.container.dark h1,
+.container.dark h1{
+  color:white
+}
 .container.dark span,
 .container.dark li span {
-  color: #f9fafb;
+  color: black
 }
 
 /* badges need a different background for dark mode */
