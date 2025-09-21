@@ -11,7 +11,7 @@ Features **priority badges, animations, cute icons, dark/light mode, and task co
 
 ## **Demo Screenshot**
 
-![Screenshot](image2.png)  
+![Screenshot](todo_media/todo_demo1.png)  
 
 
 
