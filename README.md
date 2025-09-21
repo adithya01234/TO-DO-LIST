@@ -11,7 +11,7 @@ Features **priority badges, animations, cute icons, dark/light mode, and task co
 
 ## **Demo Screenshot**
 
-![Screenshot](screenshot.png)  
+![Screenshot](image2.png)  
 
 
 
